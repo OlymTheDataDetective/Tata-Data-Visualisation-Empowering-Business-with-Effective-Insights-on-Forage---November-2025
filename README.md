@@ -45,7 +45,11 @@ Time-based trends showing peak purchasing periods
 **Question 1 – CEO's Requirement**
 
 Objective: Analyze revenue trends across the year 2011, broken down by month to identify seasonality and support forecasting.
+
+
 <img width="442" height="164" alt="Image" src="https://github.com/user-attachments/assets/75b37030-5bbf-401e-a738-040b086eb32e" />
+
+
 Solution Delivered:
 
 A time series visualization displaying monthly revenue for 2011
@@ -54,10 +58,14 @@ Trend analysis to observe peaks, slow months and recurring seasonal patterns
 
 Helps the CEO forecast future demand and budget planning
 
-Question 2 – CMO Requirement
+**Question 2 – CMO's Requirement**
 
 Objective:
 Display the Top 10 highest revenue-generating countries, excluding the United Kingdom, along with their quantity sold.
+
+
+<img width="874" height="490" alt="Image" src="https://github.com/user-attachments/assets/27d3ff21-7c6a-47a3-a1a0-77f93ce873f0" />
+
 
 Solution Delivered:
 
@@ -71,10 +79,14 @@ Total quantity sold
 
 Helps identify high-value international markets
 
-Question 3 – Customer Value Analysis (CMO)
+**Question 3 – Customer Value Analysis (CMO)**
 
 Objective:
 Identify the Top 10 customers by revenue, sorted in descending order, to support targeted engagement and retention of top spenders.
+
+
+<img width="870" height="486" alt="Image" src="https://github.com/user-attachments/assets/92d8a26a-78e1-40b5-a113-c6865c01a10c" />
+
 
 Solution Delivered:
 
@@ -86,10 +98,14 @@ Target high-value customers
 
 Improve retention and relationship strategies
 
-Question 4 – CEO Requirement
+**Question 4 – CEO's Requirement**
 
 Objective:
 Identify which countries (excluding UK) have the highest product demand, to evaluate potential expansion markets.
+
+
+<img width="873" height="489" alt="Image" src="https://github.com/user-attachments/assets/7b67016b-6ed8-40ce-8b59-77e93f6e24bd" />
+
 
 Solution Delivered:
 
